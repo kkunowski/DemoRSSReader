@@ -1,0 +1,14 @@
+<rss>
+    <item>
+        <title>title1</title>
+        <link>http://link1.com</link>
+    </item>
+    <item>
+        <title>title2</title>
+        <link>http://link2.com</link>
+    </item>
+    <item>
+        <title>title3</title>
+        <link>http://link3.com</link>
+    </item>
+</rss>

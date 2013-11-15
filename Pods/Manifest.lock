@@ -1,0 +1,16 @@
+PODS:
+  - Nocilla (0.7.1)
+  - OCHamcrest (3.0.1)
+  - OCMock (2.2.1)
+
+DEPENDENCIES:
+  - Nocilla
+  - OCHamcrest
+  - OCMock
+
+SPEC CHECKSUMS:
+  Nocilla: 79bf72b15b7e6589d3d37ffa7540d7271fb75121
+  OCHamcrest: 782c52ae8c673e5d6060a65005cfd26d20d519ba
+  OCMock: 80e4cfbc71a0e1bd28caf10a9fda27da7c4c8402
+
+COCOAPODS: 0.27.1

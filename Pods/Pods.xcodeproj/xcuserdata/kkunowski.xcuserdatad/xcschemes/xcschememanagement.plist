@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-DemoRSSReaderTests-Nocilla.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-DemoRSSReaderTests-OCHamcrest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-DemoRSSReaderTests-OCMock.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-DemoRSSReaderTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9B5F0C2CFA9E4A75BB4D2439</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D55F6558249A430D84D70D4B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F6416D8044084FFDBC3ACAF2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FEB18E40CEA94998B3CEC584</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
