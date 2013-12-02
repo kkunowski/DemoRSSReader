@@ -23,28 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Podfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Podfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="16" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoRSSReaderTests.m" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoRSSReaderTests/DemoRSSReaderTests.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="6" selection-start="891" selection-end="1194" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1845">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MasterViewController.m" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DemoRSSReader/MasterViewController.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="28" selection-start="683" selection-end="683" vertical-scroll-proportion="0.3283582" vertical-offset="267" max-vertical-offset="2130">
+            <state line="59" column="22" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="2130">
               <folding />
             </state>
           </provider>
@@ -60,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/DemoRSSReaderTests/TestResponse.xml" />
         <option value="$PROJECT_DIR$/DemoRSSReaderTests/DemoRSSReaderTests-Info.plist" />
         <option value="$PROJECT_DIR$/DemoRSSReader/UIAlertView+error.h" />
         <option value="$PROJECT_DIR$/Pods/OCHamcrest/Source/Library/Decorator/HCIs.m" />
@@ -72,17 +53,18 @@
         <option value="$PROJECT_DIR$/DemoRSSReader/XmlParseOperation.m" />
         <option value="$PROJECT_DIR$/DemoRSSReaderTests/test.xml" />
         <option value="$PROJECT_DIR$/DemoRSSReader/Model/RssFeed.h" />
-        <option value="$PROJECT_DIR$/DemoRSSReader/MasterViewController.m" />
         <option value="$PROJECT_DIR$/DemoRSSReader/GlobalDefs.h" />
         <option value="$PROJECT_DIR$/DemoRSSReaderTests/DemoRSSReaderTests.m" />
         <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/DemoRSSReader/AppDelegate.h" />
+        <option value="$PROJECT_DIR$/DemoRSSReader/MasterViewController.m" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="713" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -110,6 +92,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Cidr.FilesView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,92 +115,22 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoRSSReader" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Products" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoRSSReader" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Frameworks" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoRSSReader" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoRSSReaderTests" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoRSSReader" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoRSSReader" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoRSSReader" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoRSSReader" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Cidr.FilesView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="preferences.sourceCode.C/C++/Objective-C" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/private/DemoContactsList/DemoContactsList.xcworkspace" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DemoJsonCoreData" />
+    <property name="FullScreen" value="false" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="DemoRSSReader" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="XCTest/Kiwi.DemoRSSReaderTests">
+  <component name="RunManager" selected="Application.OCLint">
     <configuration default="false" name="DemoRSSReader" type="AppleRunConfiguration" factoryName="Application" temporary="true" SCHEME_NAME="DemoRSSReader" PROJECT_NAME="DemoRSSReader" TARGET_NAME="DemoRSSReader" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="DemoRSSReader" RUN_TARGET_NAME="DemoRSSReader" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <RunnerSettings RunnerId="AppRunner" />
@@ -262,13 +175,25 @@
       <envs />
       <method />
     </configuration>
-    <list size="6">
+    <configuration default="false" name="OCLint" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="OCLint" PROJECT_NAME="DemoRSSReader" TARGET_NAME="OCLint" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="test" PROJECT_NAME="DemoRSSReader" TARGET_NAME="test" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="XCTest/Kiwi.DemoRSSReaderTests" />
       <item index="1" class="java.lang.String" itemvalue="Application.Pods-DemoRSSReaderTests-Nocilla" />
       <item index="2" class="java.lang.String" itemvalue="Application.Pods-DemoRSSReaderTests" />
       <item index="3" class="java.lang.String" itemvalue="Application.Pods-DemoRSSReaderTests-OCHamcrest" />
       <item index="4" class="java.lang.String" itemvalue="Application.Pods-DemoRSSReaderTests-OCMock" />
-      <item index="5" class="java.lang.String" itemvalue="Application.DemoRSSReader" />
+      <item index="5" class="java.lang.String" itemvalue="Application.OCLint" />
+      <item index="6" class="java.lang.String" itemvalue="Application.test" />
+      <item index="7" class="java.lang.String" itemvalue="Application.DemoRSSReader" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -303,13 +228,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="713" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="708" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2765625" sideWeight="0.6878882" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2765625" sideWeight="0.6399371" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48513302" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -319,7 +244,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36024845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3600629" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -332,28 +257,26 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="124" />
+      <option name="time" value="125" />
     </breakpoint-manager>
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="DemoRSSReader" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="DemoRSSReader" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="8" selection-start="5403" selection-end="5412" vertical-scroll-proportion="0.0" vertical-offset="1592" max-vertical-offset="2520" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoRSSReader/AppDelegate.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1301" selection-end="1301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoRSSReader/Model/RssFeed.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
-      </provider>
-    </entry>
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="39" selection-start="2617" selection-end="2617" vertical-scroll-proportion="1.3287904" vertical-offset="15" max-vertical-offset="2145" />
@@ -362,11 +285,6 @@
     <entry file="file://$PROJECT_DIR$/DemoRSSReader/DemoRSSReader-Info.plist">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="36" selection-start="579" selection-end="579" vertical-scroll-proportion="0.55714285" vertical-offset="30" max-vertical-offset="915" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoRSSReader/Model/RssFeed.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="175" selection-end="175" vertical-scroll-proportion="0.3857143" vertical-offset="0" max-vertical-offset="350" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DemoRSSReaderTests/SampleResponse.xml">
@@ -389,38 +307,62 @@
         <state line="16" column="41" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="390" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoRSSReader/XmlParseOperation.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoRSSReader/XmlParseOperation.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="0" selection-start="2794" selection-end="2794" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="1440" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DemoRSSReader/GlobalDefs.h">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="7" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoRSSReaderTests/DemoRSSReaderTests.m">
+    <entry file="file://$PROJECT_DIR$/DemoRSSReader/XmlParseOperation.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="6" selection-start="891" selection-end="1194" vertical-scroll-proportion="0.0" vertical-offset="1167" max-vertical-offset="1770">
+        <state line="40" column="23" selection-start="1162" selection-end="1162" vertical-scroll-proportion="-0.025210084" vertical-offset="600" max-vertical-offset="1410">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DemoRSSReader/XmlParseOperation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="32" selection-start="242" selection-end="242" vertical-scroll-proportion="0.22203948" vertical-offset="0" max-vertical-offset="608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoRSSReader/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="43" selection-start="237" selection-end="285" vertical-scroll-proportion="0.29605263" vertical-offset="0" max-vertical-offset="608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoRSSReaderTests/DemoRSSReaderTests.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="1" selection-start="859" selection-end="859" vertical-scroll-proportion="0.10084034" vertical-offset="480" max-vertical-offset="1770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoRSSReader/Model/RssFeed.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Podfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state line="3" column="8" selection-start="0" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoRSSReader/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="33" selection-start="173" selection-end="173" vertical-scroll-proportion="0.20168068" vertical-offset="0" max-vertical-offset="930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoRSSReader/Model/RssFeed.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.14802632" vertical-offset="0" max-vertical-offset="608">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DemoRSSReader/MasterViewController.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="28" selection-start="683" selection-end="683" vertical-scroll-proportion="0.3283582" vertical-offset="267" max-vertical-offset="2130">
+        <state line="59" column="22" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="2130">
           <folding />
         </state>
       </provider>

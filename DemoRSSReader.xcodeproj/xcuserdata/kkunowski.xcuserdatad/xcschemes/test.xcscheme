@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "52FA5D2034B515F04D4F1589"
-               BuildableName = "DemoRSSReader.app"
-               BlueprintName = "DemoRSSReader"
+               BlueprintIdentifier = "8DAC100E18487DBF0050741C"
+               BuildableName = "test"
+               BlueprintName = "test"
                ReferencedContainer = "container:DemoRSSReader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -39,15 +39,6 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52FA5D2034B515F04D4F1589"
-            BuildableName = "DemoRSSReader.app"
-            BlueprintName = "DemoRSSReader"
-            ReferencedContainer = "container:DemoRSSReader.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -57,15 +48,6 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52FA5D2034B515F04D4F1589"
-            BuildableName = "DemoRSSReader.app"
-            BlueprintName = "DemoRSSReader"
-            ReferencedContainer = "container:DemoRSSReader.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

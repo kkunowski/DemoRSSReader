@@ -24,8 +24,9 @@
 
 // call when xml parse finished
 - (void)addRssFeeds:(NSMutableArray *)rssFeeds {
-    assert([NSThread isMainThread]);
-    [[NSNotificationCenter defaultCenter] postNotificationName:kAddRssFeedsNotificationName object:rssFeeds];
+    NSLog(@"test %@",[rssFeeds objectAtIndex:0]);
+    // assert([NSThread isMainThread]);
+   // [[NSNotificationCenter defaultCenter] postNotificationName:kAddRssFeedsNotificationName object:rssFeeds];
 }
 
 // call when parser error occurred

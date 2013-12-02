@@ -45,7 +45,7 @@
     [NSURLConnection sendAsynchronousRequest:requestUrl
                                        queue:[NSOperationQueue mainQueue]
                            completionHandler:^(NSURLResponse *response, NSData *data, NSError *error) {
-                               if (error != nil) {
+                               if (error) {
                                    [self handleError:error];
                                }
                                else {

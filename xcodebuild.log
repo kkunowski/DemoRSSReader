@@ -1,0 +1,40 @@
+=== BUILD TARGET DemoRSSReader OF PROJECT DemoRSSReader WITH CONFIGURATION Debug ===
+
+Check dependencies
+
+PhaseScriptExecution Check\ Pods\ Manifest.lock /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Intermediates/DemoRSSReader.build/Debug-iphoneos/DemoRSSReader.build/Script-4F34B6BE40474C9A96E7ECC0.sh
+    cd "/Users/kkunowski/Desktop/iOS projects/DemoRSSReader"
+    /bin/sh -c /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Intermediates/DemoRSSReader.build/Debug-iphoneos/DemoRSSReader.build/Script-4F34B6BE40474C9A96E7ECC0.sh
+
+GenerateDSYMFile /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app.dSYM /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app/DemoRSSReader
+    cd "/Users/kkunowski/Desktop/iOS projects/DemoRSSReader"
+    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app/DemoRSSReader -o /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app.dSYM
+
+PhaseScriptExecution Copy\ Pods\ Resources /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Intermediates/DemoRSSReader.build/Debug-iphoneos/DemoRSSReader.build/Script-A3A0026ECCB141A5B526ABD6.sh
+    cd "/Users/kkunowski/Desktop/iOS projects/DemoRSSReader"
+    /bin/sh -c /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Intermediates/DemoRSSReader.build/Debug-iphoneos/DemoRSSReader.build/Script-A3A0026ECCB141A5B526ABD6.sh
+building file list ... done
+
+sent 29 bytes  received 20 bytes  98.00 bytes/sec
+total size is 0  speedup is 0.00
+2013-11-28 23:54:35.406 IBCocoaTouchImageCatalogTool[1216:303] CFPreferences: user home directory at file:///Users/kkunowski/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+/* com.apple.actool.compilation-results */
+/Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app/Assets.car
+
+
+ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Intermediates/DemoRSSReader.build/Debug-iphoneos/DemoRSSReader.build/DemoRSSReader.xcent
+    cd "/Users/kkunowski/Desktop/iOS projects/DemoRSSReader"
+    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
+    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Intermediates/DemoRSSReader.build/Debug-iphoneos/DemoRSSReader.build/DemoRSSReader.xcent
+
+CodeSign /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app
+    cd "/Users/kkunowski/Desktop/iOS projects/DemoRSSReader"
+    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate
+    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
+    Using code signing identity "iPhone Developer: Krzysztof Kunowski (7U6RJ69L5T)" and provisioning profile "iOS Team Provisioning Profile: *" (6234AB62-E95B-422C-B46B-69E28BB3C0E1)
+    codesign --force --sign A9702248436CF1B7ACF5F6D594FD0DB5DE33D86F --resource-rules=/Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app/ResourceRules.plist --entitlements /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Intermediates/DemoRSSReader.build/Debug-iphoneos/DemoRSSReader.build/DemoRSSReader.xcent /Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app
+/Users/kkunowski/Library/Developer/Xcode/DerivedData/DemoRSSReader-fuoqfblshycswxfyqmqagdrvvbyr/Build/Products/Debug-iphoneos/DemoRSSReader.app: replacing existing signature
+
+** BUILD SUCCEEDED **
+
